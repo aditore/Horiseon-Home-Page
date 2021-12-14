@@ -8,15 +8,15 @@
 
 Horiseon needs a website that has a codebase that follows accessibility standards in order to be optimized for search engines.
 
-#Fixed HTML so that semantic structure is used.
-#HTML structure is spaced and easy to read.
-#Links all function correctly.
-#Added alt attributes to images.
-#Descriptive title added.
+Fixed HTML so that semantic structure is used.\
+HTML structure is spaced and easy to read.\
+Links all function correctly.\
+Added alt attributes to images.\
+Descriptive title added.\
 
-Fixed CSS to allow for easier access to changes in the future.
-CSS selectors and properties are consolidated and organized to follow semantic structure.
-Comments added to make viewing easier.
+Fixed CSS to allow for easier access to changes in the future.\
+CSS selectors and properties are consolidated and organized to follow semantic structure.\
+Comments added to make viewing easier.\
 
 ## Usage
 
