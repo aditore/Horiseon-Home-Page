@@ -22,14 +22,14 @@ Comments added to make viewing easier.
 
 Scrolling is updated to be smooth as the links are clicked.
 
-```md
-![alt 'top'](./assets/images/horiseon-home-page-top.png)
-```
 
-```md
-![alt 'mid'](./assets/images/horiseon-home-page-mid.png)
-```
+![alt 'top'](/assets/images/horiseon-home-page-top.png)
 
-```md
-![alt 'bot'](./assets/images/horiseon-home-page-bot.png)
-```
+
+
+![alt 'mid'](/assets/images/horiseon-home-page-mid.png)
+
+
+
+![alt 'bot'](/assets/images/horiseon-home-page-bot.png)
+
